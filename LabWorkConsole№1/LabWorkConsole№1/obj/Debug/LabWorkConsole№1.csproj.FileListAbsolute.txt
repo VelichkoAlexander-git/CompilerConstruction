@@ -1,0 +1,7 @@
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\LabWorkConsole№1\LabWorkConsole№1\bin\Debug\LabWorkConsole№1.exe.config
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\LabWorkConsole№1\LabWorkConsole№1\bin\Debug\LabWorkConsole№1.exe
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\LabWorkConsole№1\LabWorkConsole№1\bin\Debug\LabWorkConsole№1.pdb
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\LabWorkConsole№1\LabWorkConsole№1\obj\Debug\LabWorkConsole№1.csprojAssemblyReference.cache
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\LabWorkConsole№1\LabWorkConsole№1\obj\Debug\LabWorkConsole№1.csproj.CoreCompileInputs.cache
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\LabWorkConsole№1\LabWorkConsole№1\obj\Debug\LabWorkConsole№1.exe
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\LabWorkConsole№1\LabWorkConsole№1\obj\Debug\LabWorkConsole№1.pdb
