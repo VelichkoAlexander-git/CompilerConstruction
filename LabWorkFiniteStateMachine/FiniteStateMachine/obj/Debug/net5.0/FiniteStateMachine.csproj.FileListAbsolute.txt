@@ -1,0 +1,16 @@
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\bin\Debug\net5.0\FiniteStateMachine.exe
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\bin\Debug\net5.0\FiniteStateMachine.deps.json
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\bin\Debug\net5.0\FiniteStateMachine.runtimeconfig.json
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\bin\Debug\net5.0\FiniteStateMachine.runtimeconfig.dev.json
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\bin\Debug\net5.0\FiniteStateMachine.dll
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\bin\Debug\net5.0\ref\FiniteStateMachine.dll
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\bin\Debug\net5.0\FiniteStateMachine.pdb
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\obj\Debug\net5.0\FiniteStateMachine.csprojAssemblyReference.cache
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\obj\Debug\net5.0\FiniteStateMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\obj\Debug\net5.0\FiniteStateMachine.AssemblyInfoInputs.cache
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\obj\Debug\net5.0\FiniteStateMachine.AssemblyInfo.cs
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\obj\Debug\net5.0\FiniteStateMachine.csproj.CoreCompileInputs.cache
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\obj\Debug\net5.0\FiniteStateMachine.dll
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\obj\Debug\net5.0\ref\FiniteStateMachine.dll
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\obj\Debug\net5.0\FiniteStateMachine.pdb
+D:\Study\Конспекты\4 курс\2 семестр\Конструирование компиляторов (Доц. Надькин Л.Ю.)\CompilerConstruction\LabWorkFiniteStateMachine\FiniteStateMachine\obj\Debug\net5.0\FiniteStateMachine.genruntimeconfig.cache
