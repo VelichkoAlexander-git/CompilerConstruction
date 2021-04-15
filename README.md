@@ -79,4 +79,4 @@
 
 ![2 32](https://user-images.githubusercontent.com/70848654/114911928-b8691000-9e1f-11eb-8859-00d032473135.png)
 
-![2 33](https://user-images.githubusercontent.com/70848654/114911930-b8691000-9e1f-11eb-8517-afb181429289.png)
+![2 33](https://user-images.githubusercontent.com/70848654/114912502-59f06180-9e20-11eb-9220-53219f152bc2.png)
