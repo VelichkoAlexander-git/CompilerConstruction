@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LabWorkPolynomialAnalyzer
+namespace LabWorkPolynomialAnalyzer.Base
 {
     public class Token
     {
@@ -21,8 +21,10 @@ namespace LabWorkPolynomialAnalyzer
         {
             Number,
             Keyword,
-            Operator,
+            Sum,
+            Difference,
             Power,
+            Multiplication,
 
             Invalid,
             EOI
@@ -42,8 +44,14 @@ namespace LabWorkPolynomialAnalyzer
                 case TokenType.Number:
                     v = "Number";
                     break;
-                case TokenType.Operator:
-                    v = "Operator";
+                case TokenType.Sum:
+                    v = "Sum";
+                    break;
+                case TokenType.Multiplication:
+                    v = "Multiplication";
+                    break;
+                case TokenType.Difference:
+                    v = "Difference";
                     break;
                 case TokenType.Invalid:
                     v = "Invalid";

@@ -2,18 +2,18 @@
 using System.Linq;
 using System.Text;
 
-namespace LabWorkPolynomialAnalyzer
+namespace LabWorkPolynomialAnalyzer.Base
 {
     public class Lexer
     {
-        private static readonly String _letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        private static readonly String _letters = "x";
         private static readonly String _digits = "0123456789";
 
         private String _stmt = "";
         private int _index = 0;
         private char _ch;
 
-        private char last;
+        private char _last;
 
         public Lexer(String input)
         {
@@ -40,21 +40,21 @@ namespace LabWorkPolynomialAnalyzer
                         _ch = NextChar();
                         break;
                     case '*':
-                        last = _ch;
+                        _last = _ch;
                         _ch = NextChar();
-                        return new Token(Token.TokenType.Operator, Char.ToString(last));
+                        return new Token(Token.TokenType.Multiplication, Char.ToString(_last));
                     case '-':
-                        last = _ch;
+                        _last = _ch;
                         _ch = NextChar();
-                        return new Token(Token.TokenType.Operator, Char.ToString(last));
+                        return new Token(Token.TokenType.Difference, Char.ToString(_last));
                     case '+':
-                        last = _ch;
+                        _last = _ch;
                         _ch = NextChar();
-                        return new Token(Token.TokenType.Operator, Char.ToString(last));
+                        return new Token(Token.TokenType.Sum, Char.ToString(_last));
                     case '^':
-                        last = _ch;
+                        _last = _ch;
                         _ch = NextChar();
-                        return new Token(Token.TokenType.Power, Char.ToString(last));
+                        return new Token(Token.TokenType.Power, Char.ToString(_last));
                     case '\0':
                         return new Token(Token.TokenType.EOI, "EndOfInput");
                     default:

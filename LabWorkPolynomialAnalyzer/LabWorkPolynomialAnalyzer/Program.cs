@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using LabWorkPolynomialAnalyzer.Translator;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using NLog;
@@ -11,8 +12,10 @@ namespace LabWorkPolynomialAnalyzer
     {
         static void Main(string[] args)
         {
-            var value = new Parser("-1 2 3 x X x x ^ 4 + 5 6 7 x + 8 9");
-            value.Run();
+            var resultOne = new ParserTranslator("3x^2+3x-5").Run().Poly;
+            var resultTwo = new ParserTranslator("x^3-2x").Run().Poly;
+            var result = resultOne * resultTwo;
+            Console.WriteLine(result);
         }
     }
 }

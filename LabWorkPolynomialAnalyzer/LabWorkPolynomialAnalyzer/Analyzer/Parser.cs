@@ -1,10 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using LabWorkPolynomialAnalyzer.Base;
 
-namespace LabWorkPolynomialAnalyzer
+namespace LabWorkPolynomialAnalyzer.Analyzer
 {
     public class Parser
     {
+        #region Alalyze
+        
         public List<String> Logger { get; private set; }
 
         private Token _token;
@@ -28,14 +31,14 @@ namespace LabWorkPolynomialAnalyzer
         private void Polynom()
         {
             Logger.Add("<Query>");
-            if (_token.Type == Token.TokenType.Operator)
+            if (_token.Type == Token.TokenType.Sum || _token.Type == Token.TokenType.Difference)
             {
                 Logger.Add($"<{_token.Type}> {_token.Value} </{_token.Type}>");
                 NextCh();
             }
             
             Addend();
-            while (_token.Type == Token.TokenType.Operator)
+            while (_token.Type == Token.TokenType.Sum || _token.Type == Token.TokenType.Difference)
             {
                 Logger.Add($"<{_token.Type}> {_token.Value} </{_token.Type}>");
                 NextCh();
@@ -107,5 +110,7 @@ namespace LabWorkPolynomialAnalyzer
             throw new Exception("Syntax error: Expecting: " + Token.TypeToString(type) + "; saw: " +
                                 Token.TypeToString(_token.Type));
         }
+        
+        #endregion
     }
 }
